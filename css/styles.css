@@ -37,6 +37,7 @@ h6 {
 
 html,
 body {
+    font-family: "Roboto";
     height: 100%;
     line-height: 1;
 }
@@ -249,8 +250,8 @@ body {
     border-radius: 4px;
 }
 
-.hero-btn:hover,
-.hero-btn:focus {
+.title-btn:hover,
+.title-btn:focus {
     background-color: var(--hover-focus-color);
 }
 
